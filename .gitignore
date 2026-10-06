@@ -2,6 +2,8 @@ node_modules
 dist
 build
 .next
+.react-router
+.tmp-test
 *.tsbuildinfo
 vite.config.js
 vite.config.d.ts
